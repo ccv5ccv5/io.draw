@@ -1,7 +1,7 @@
 id,name,shape,fill,refs
-活跃活动,活跃活动,rectangle,#82b366,竞技场门票
 竞技场门票,竞技场门票,ellipse,#b85450,竞技场
-地牢,地牢,rectangle,#82b366,竞技场门票
-基础商店,基础商店,rectangle,#82b366,竞技场门票
 酒馆,酒馆,rectangle,#82b366,竞技场门票
 竞技场,竞技场,rectangle,#82b366,竞技场门票
+地牢,地牢,rectangle,#82b366,竞技场门票
+基础商店,基础商店,rectangle,#82b366,竞技场门票
+活跃活动,活跃活动,rectangle,#82b366,竞技场门票

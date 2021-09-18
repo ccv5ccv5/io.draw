@@ -1,5 +1,5 @@
 id,name,shape,fill,refs
 酒馆,酒馆,rectangle,#82b366,
-酒馆卷轴,酒馆卷轴,ellipse,#b85450,酒馆
 征战大厅,征战大厅,rectangle,#82b366,酒馆卷轴
 龙岛,龙岛,rectangle,#82b366,酒馆卷轴
+酒馆卷轴,酒馆卷轴,ellipse,#b85450,酒馆

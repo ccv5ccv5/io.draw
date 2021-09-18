@@ -1,6 +1,6 @@
 id,name,shape,fill,refs
 钻石,钻石,ellipse,#b85450,抽卡
 抽卡,抽卡,rectangle,#82b366,卡牌
-卡牌,卡牌,ellipse,#b85450,
 抽卡卷轴,抽卡卷轴,ellipse,#b85450,抽卡
+卡牌,卡牌,ellipse,#b85450,
 爱心,爱心,ellipse,#b85450,抽卡

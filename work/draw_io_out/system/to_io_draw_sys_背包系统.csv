@@ -1,9 +1,9 @@
 id,name,shape,fill,refs
-指定皮肤碎片(指定的skin id),指定皮肤碎片(指定的skin id),ellipse,#b85450,背包系统
-随机英雄碎片,随机英雄碎片,ellipse,#b85450,背包系统
-钻石,钻石,ellipse,#b85450,背包系统
-卡牌,卡牌,ellipse,#b85450,
-皮肤,皮肤,ellipse,#b85450,
-固定英雄卡牌碎片,固定英雄卡牌碎片,ellipse,#b85450,背包系统
-背包系统,背包系统,rectangle,#82b366,"皮肤,卡牌"
+背包系统,背包系统,rectangle,#82b366,"卡牌,皮肤"
 随机皮肤碎片,随机皮肤碎片,ellipse,#b85450,背包系统
+随机英雄碎片,随机英雄碎片,ellipse,#b85450,背包系统
+固定英雄卡牌碎片,固定英雄卡牌碎片,ellipse,#b85450,背包系统
+皮肤,皮肤,ellipse,#b85450,
+指定皮肤碎片(指定的skin id),指定皮肤碎片(指定的skin id),ellipse,#b85450,背包系统
+卡牌,卡牌,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,背包系统
