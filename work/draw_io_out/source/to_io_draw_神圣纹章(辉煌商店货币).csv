@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+神圣纹章(辉煌商店货币),神圣纹章(辉煌商店货币),ellipse,#b85450,神圣商店
+竞技场,竞技场,rectangle,#82b366,神圣纹章(辉煌商店货币)
+转盘,转盘,rectangle,#82b366,神圣纹章(辉煌商店货币)
+神圣商店,神圣商店,rectangle,#82b366,

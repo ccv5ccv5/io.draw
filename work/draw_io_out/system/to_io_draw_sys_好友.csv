@@ -1,0 +1,11 @@
+id,name,shape,fill,refs
+随机英雄碎片,随机英雄碎片,ellipse,#b85450,
+卡牌升级石头,卡牌升级石头,ellipse,#b85450,
+装备,装备,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,
+好友boss体力，新的3,好友boss体力，新的3,ellipse,#b85450,好友
+神器碎片,神器碎片,ellipse,#b85450,
+抽卡卷轴,抽卡卷轴,ellipse,#b85450,
+爱心,爱心,ellipse,#b85450,
+金币,金币,ellipse,#b85450,
+好友,好友,rectangle,#82b366,"随机英雄碎片,卡牌升级石头,装备,钻石,神器碎片,好友boss体力，新的3,抽卡卷轴,爱心,金币"

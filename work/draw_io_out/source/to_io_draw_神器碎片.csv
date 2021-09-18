@@ -1,0 +1,11 @@
+id,name,shape,fill,refs
+竞技场,竞技场,rectangle,#82b366,神器碎片
+地牢,地牢,rectangle,#82b366,神器碎片
+装备系统,装备系统,rectangle,#82b366,
+转盘,转盘,rectangle,#82b366,神器碎片
+神器碎片,神器碎片,ellipse,#b85450,装备系统
+征战大厅,征战大厅,rectangle,#82b366,神器碎片
+龙岛,龙岛,rectangle,#82b366,神器碎片
+工会,工会,rectangle,#82b366,神器碎片
+酒馆,酒馆,rectangle,#82b366,神器碎片
+好友,好友,rectangle,#82b366,神器碎片

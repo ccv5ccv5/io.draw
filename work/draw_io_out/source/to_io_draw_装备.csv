@@ -1,0 +1,13 @@
+id,name,shape,fill,refs
+竞技场,竞技场,rectangle,#82b366,装备
+地牢,地牢,rectangle,#82b366,装备
+爬塔,爬塔,rectangle,#82b366,装备
+成就系统,成就系统,rectangle,#82b366,装备
+装备系统,装备系统,rectangle,#82b366,装备
+转盘,转盘,rectangle,#82b366,装备
+装备,装备,ellipse,#b85450,装备系统
+征战大厅,征战大厅,rectangle,#82b366,装备
+工会,工会,rectangle,#82b366,装备
+活跃活动,活跃活动,rectangle,#82b366,装备
+新手养成,新手养成,rectangle,#82b366,装备
+好友,好友,rectangle,#82b366,装备

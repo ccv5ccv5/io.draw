@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+RUNE,RUNE,ellipse,#b85450,符文书
+混沌石， 符文商店用,混沌石， 符文商店用,ellipse,#b85450,符文书
+恶魔之魂， 升级符文用,恶魔之魂， 升级符文用,ellipse,#b85450,符文书
+符文书,符文书,rectangle,#82b366,"RUNE,混沌石， 符文商店用,恶魔之魂， 升级符文用"

@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+LOSTCITY_RECOVERY,LOSTCITY_RECOVERY,ellipse,#b85450,
+地牢,地牢,rectangle,#82b366,LOSTCITY_RECOVERY

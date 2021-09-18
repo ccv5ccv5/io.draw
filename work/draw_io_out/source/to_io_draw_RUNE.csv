@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+RUNE,RUNE,ellipse,#b85450,符文书
+符文书,符文书,rectangle,#82b366,RUNE

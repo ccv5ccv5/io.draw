@@ -1,0 +1,13 @@
+id,name,shape,fill,refs
+随机英雄碎片,随机英雄碎片,ellipse,#b85450,工会
+卡牌升级石头,卡牌升级石头,ellipse,#b85450,
+装备,装备,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,工会
+时光之沙,时光之沙,ellipse,#b85450,
+公会币,公会币,ellipse,#b85450,工会
+stopwatch,stopwatch,ellipse,#b85450,
+神器碎片,神器碎片,ellipse,#b85450,
+工会,工会,rectangle,#82b366,"随机英雄碎片,卡牌升级石头,装备,钻石,时光之沙,公会币,stopwatch,神器碎片,固定英雄卡牌碎片,卡牌进阶石头,金币"
+固定英雄卡牌碎片,固定英雄卡牌碎片,ellipse,#b85450,工会
+卡牌进阶石头,卡牌进阶石头,ellipse,#b85450,
+金币,金币,ellipse,#b85450,工会

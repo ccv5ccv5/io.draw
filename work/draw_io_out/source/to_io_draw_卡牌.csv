@@ -1,0 +1,8 @@
+id,name,shape,fill,refs
+分解功能,分解功能,rectangle,#82b366,
+抽卡,抽卡,rectangle,#82b366,卡牌
+英雄系统,英雄系统,rectangle,#82b366,卡牌
+卡牌,卡牌,ellipse,#b85450,"分解功能,英雄系统,先知之树"
+龙岛,龙岛,rectangle,#82b366,卡牌
+背包系统,背包系统,rectangle,#82b366,卡牌
+先知之树,先知之树,rectangle,#82b366,卡牌
