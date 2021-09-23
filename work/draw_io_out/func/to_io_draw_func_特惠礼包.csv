@@ -1,0 +1,18 @@
+id,name,shape,fill,refs
+卡牌升级石头,卡牌升级石头,ellipse,#b85450,
+卡牌进阶石头,卡牌进阶石头,ellipse,#b85450,
+stopwatch,stopwatch,ellipse,#b85450,
+骰子 dice,骰子 dice,ellipse,#b85450,
+混沌石， 符文商店用,混沌石， 符文商店用,ellipse,#b85450,
+先知宝珠，先知门,先知宝珠，先知门,ellipse,#b85450,
+lemon_tea,lemon_tea,ellipse,#b85450,
+许愿币,许愿币,ellipse,#b85450,
+抽卡卷轴,抽卡卷轴,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,
+虚空石,虚空石,ellipse,#b85450,
+高级许愿币,高级许愿币,ellipse,#b85450,
+milk,milk,ellipse,#b85450,
+特惠礼包,特惠礼包,rectangle,#82b366,"卡牌升级石头,stopwatch,骰子 dice,混沌石， 符文商店用,先知宝珠，先知门,lemon_tea,许愿币,抽卡卷轴,钻石,虚空石,高级许愿币,milk,卡牌进阶石头,egg_tart,paddle2"
+礼包,礼包,rhombus,#dae8fc,特惠礼包
+egg_tart,egg_tart,ellipse,#b85450,
+paddle2,paddle2,ellipse,#b85450,

@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'封印扫荡','封印扫荡',rectangle,#82b366,
+封印之地,封印之地,rectangle,#82b366,'封印扫荡'

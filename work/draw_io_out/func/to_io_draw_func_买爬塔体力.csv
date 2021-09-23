@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+钻石,钻石,ellipse,#b85450,买爬塔体力
+买爬塔体力,买爬塔体力,rectangle,#82b366,环境之塔的体力
+爬塔,爬塔,rhombus,#dae8fc,买爬塔体力
+环境之塔的体力,环境之塔的体力,ellipse,#b85450,

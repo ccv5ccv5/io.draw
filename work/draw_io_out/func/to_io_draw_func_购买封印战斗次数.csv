@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+钻石,钻石,ellipse,#b85450,购买封印战斗次数
+封印之地,封印之地,rhombus,#dae8fc,购买封印战斗次数
+购买封印战斗次数,购买封印战斗次数,rectangle,#82b366,封印之地战斗次数
+封印之地战斗次数,封印之地战斗次数,ellipse,#b85450,

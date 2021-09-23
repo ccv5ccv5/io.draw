@@ -1,0 +1,4 @@
+id,name,shape,fill,refs
+竞技场,竞技场,rhombus,#dae8fc,挑战赛下注
+钻石,钻石,ellipse,#b85450,挑战赛下注
+挑战赛下注,挑战赛下注,rectangle,#82b366,钻石

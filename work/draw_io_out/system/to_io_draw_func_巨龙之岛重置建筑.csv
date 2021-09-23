@@ -1,0 +1,6 @@
+id,name,shape,fill,refs
+极乐之境金羽毛,极乐之境金羽毛,ellipse,#b85450,
+龙纹币,龙纹币,ellipse,#b85450,
+龙岛,龙岛,rectangle,#82b366,巨龙之岛重置建筑
+巨龙之岛重置建筑,巨龙之岛重置建筑,rectangle,#82b366,"金币,龙纹币,极乐之境金羽毛"
+金币,金币,ellipse,#b85450,

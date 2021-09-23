@@ -1,0 +1,4 @@
+id,name,shape,fill,refs
+转盘,转盘,rhombus,#dae8fc,刷新转盘
+钻石,钻石,ellipse,#b85450,刷新转盘
+刷新转盘,刷新转盘,rectangle,#82b366,

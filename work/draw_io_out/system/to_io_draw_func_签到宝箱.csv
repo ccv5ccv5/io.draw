@@ -1,0 +1,4 @@
+id,name,shape,fill,refs
+活跃活动,活跃活动,rectangle,#82b366,签到宝箱
+签到宝箱,签到宝箱,rectangle,#82b366,钻石
+钻石,钻石,ellipse,#b85450,

@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+竞技场,竞技场,rectangle,#82b366,买竞技场门票
+竞技场门票,竞技场门票,ellipse,#b85450,
+买竞技场门票,买竞技场门票,rectangle,#82b366,竞技场门票
+钻石,钻石,ellipse,#b85450,买竞技场门票

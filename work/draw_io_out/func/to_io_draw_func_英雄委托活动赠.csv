@@ -1,0 +1,8 @@
+id,name,shape,fill,refs
+卡牌,卡牌,ellipse,#b85450,英雄委托活动赠
+固定英雄卡牌碎片,固定英雄卡牌碎片,ellipse,#b85450,
+周活动,周活动,rhombus,#dae8fc,英雄委托活动赠
+装备,装备,ellipse,#b85450,
+英雄委托活动赠,英雄委托活动赠,rectangle,#82b366,"装备,固定英雄卡牌碎片"
+钻石,钻石,ellipse,#b85450,英雄委托活动赠
+金币,金币,ellipse,#b85450,英雄委托活动赠

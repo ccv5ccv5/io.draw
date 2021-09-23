@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'使用高级转盘','使用高级转盘',rectangle,#82b366,
+转盘,转盘,rectangle,#82b366,'使用高级转盘'

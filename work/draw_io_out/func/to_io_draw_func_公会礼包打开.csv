@@ -1,0 +1,9 @@
+id,name,shape,fill,refs
+卡牌升级石头,卡牌升级石头,ellipse,#b85450,
+stopwatch,stopwatch,ellipse,#b85450,
+公会币,公会币,ellipse,#b85450,
+工会,工会,rhombus,#dae8fc,公会礼包打开
+随机英雄碎片,随机英雄碎片,ellipse,#b85450,
+公会礼包打开,公会礼包打开,rectangle,#82b366,"卡牌升级石头,stopwatch,公会币,随机英雄碎片,钻石,金币"
+钻石,钻石,ellipse,#b85450,
+金币,金币,ellipse,#b85450,

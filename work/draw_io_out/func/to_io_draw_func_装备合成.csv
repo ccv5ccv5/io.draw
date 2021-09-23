@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+装备系统,装备系统,rhombus,#dae8fc,装备合成
+金币,金币,ellipse,#b85450,装备合成
+装备合成,装备合成,rectangle,#82b366,装备
+装备,装备,ellipse,#b85450,装备合成

@@ -1,0 +1,4 @@
+id,name,shape,fill,refs
+抽卡,抽卡,rhombus,#dae8fc,能量抽卡
+能量抽卡,能量抽卡,rectangle,#82b366,卡牌
+卡牌,卡牌,ellipse,#b85450,

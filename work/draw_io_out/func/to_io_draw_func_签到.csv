@@ -1,0 +1,8 @@
+id,name,shape,fill,refs
+签到,签到,rectangle,#82b366,"固定英雄卡牌碎片,随机英雄碎片,装备,抽卡卷轴,钻石"
+固定英雄卡牌碎片,固定英雄卡牌碎片,ellipse,#b85450,
+随机英雄碎片,随机英雄碎片,ellipse,#b85450,
+装备,装备,ellipse,#b85450,
+抽卡卷轴,抽卡卷轴,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,
+活跃活动,活跃活动,rhombus,#dae8fc,签到

@@ -1,0 +1,4 @@
+id,name,shape,fill,refs
+使用竞技场门票,使用竞技场门票,rectangle,#82b366,
+竞技场,竞技场,rhombus,#dae8fc,使用竞技场门票
+竞技场门票,竞技场门票,ellipse,#b85450,使用竞技场门票

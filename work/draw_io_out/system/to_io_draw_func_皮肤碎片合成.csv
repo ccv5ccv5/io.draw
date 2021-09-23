@@ -1,0 +1,6 @@
+id,name,shape,fill,refs
+背包系统,背包系统,rectangle,#82b366,皮肤碎片合成
+随机皮肤碎片,随机皮肤碎片,ellipse,#b85450,皮肤碎片合成
+皮肤,皮肤,ellipse,#b85450,
+指定皮肤碎片(指定的skin id),指定皮肤碎片(指定的skin id),ellipse,#b85450,皮肤碎片合成
+皮肤碎片合成,皮肤碎片合成,rectangle,#82b366,皮肤

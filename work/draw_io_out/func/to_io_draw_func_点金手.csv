@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+金币,金币,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,点金手
+点金手,点金手,rectangle,#82b366,金币
+其他养成,其他养成,rhombus,#dae8fc,点金手

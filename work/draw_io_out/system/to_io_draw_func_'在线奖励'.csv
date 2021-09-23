@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'在线奖励','在线奖励',rectangle,#82b366,
+新手养成,新手养成,rectangle,#82b366,'在线奖励'

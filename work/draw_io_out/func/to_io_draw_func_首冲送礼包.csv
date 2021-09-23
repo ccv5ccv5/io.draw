@@ -1,0 +1,6 @@
+id,name,shape,fill,refs
+固定英雄卡牌碎片,固定英雄卡牌碎片,ellipse,#b85450,
+装备,装备,ellipse,#b85450,
+首冲送礼包,首冲送礼包,rectangle,#82b366,"金币,装备,固定英雄卡牌碎片"
+礼包,礼包,rhombus,#dae8fc,首冲送礼包
+金币,金币,ellipse,#b85450,

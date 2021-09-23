@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'刷新转盘','刷新转盘',rectangle,#82b366,
+转盘,转盘,rectangle,#82b366,'刷新转盘'

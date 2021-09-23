@@ -1,0 +1,13 @@
+id,name,shape,fill,refs
+神器碎片,神器碎片,ellipse,#b85450,
+卡牌,卡牌,ellipse,#b85450,
+进背包的宝箱,进背包的宝箱,ellipse,#b85450,开宝箱
+固定英雄卡牌碎片,固定英雄卡牌碎片,ellipse,#b85450,
+神圣纹章(辉煌商店货币),神圣纹章(辉煌商店货币),ellipse,#b85450,
+周活动,周活动,rhombus,#dae8fc,开宝箱
+开宝箱,开宝箱,rectangle,#82b366,"神器碎片,卡牌,固定英雄卡牌碎片,神圣纹章(辉煌商店货币),先知宝珠，先知门,lemon_tea,抽卡卷轴,钻石,高级许愿币"
+先知宝珠，先知门,先知宝珠，先知门,ellipse,#b85450,
+lemon_tea,lemon_tea,ellipse,#b85450,
+抽卡卷轴,抽卡卷轴,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,
+高级许愿币,高级许愿币,ellipse,#b85450,

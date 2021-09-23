@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'卡牌合成','卡牌合成',rectangle,#82b366,
+英雄低到高合成,英雄低到高合成,rectangle,#82b366,'卡牌合成'

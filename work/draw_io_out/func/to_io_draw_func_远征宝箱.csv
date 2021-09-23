@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+远征,远征,rhombus,#dae8fc,远征宝箱
+金币,金币,ellipse,#b85450,
+远征宝箱,远征宝箱,rectangle,#82b366,"金币,远征币"
+远征币,远征币,ellipse,#b85450,

@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+回收旅行骰子,回收旅行骰子,rectangle,#82b366,钻石
+周活动,周活动,rectangle,#82b366,回收旅行骰子
+骰子 dice,骰子 dice,ellipse,#b85450,回收旅行骰子
+钻石,钻石,ellipse,#b85450,

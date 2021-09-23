@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'天马完成任务','天马完成任务',rectangle,#82b366,
+龙岛,龙岛,rectangle,#82b366,'天马完成任务'

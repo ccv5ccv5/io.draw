@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'成就领奖','成就领奖',rectangle,#82b366,
+成就系统,成就系统,rectangle,#82b366,'成就领奖'

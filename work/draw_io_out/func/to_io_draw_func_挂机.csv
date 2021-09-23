@@ -1,0 +1,18 @@
+id,name,shape,fill,refs
+卡牌升级石头,卡牌升级石头,ellipse,#b85450,
+卡牌进阶石头,卡牌进阶石头,ellipse,#b85450,
+神器碎片,神器碎片,ellipse,#b85450,
+stopwatch,stopwatch,ellipse,#b85450,
+玩家经验,玩家经验,ellipse,#b85450,
+混沌石， 符文商店用,混沌石， 符文商店用,ellipse,#b85450,
+随机英雄碎片,随机英雄碎片,ellipse,#b85450,
+恶魔之魂， 升级符文用,恶魔之魂， 升级符文用,ellipse,#b85450,
+装备,装备,ellipse,#b85450,
+lemon_tea,lemon_tea,ellipse,#b85450,
+虚空石,虚空石,ellipse,#b85450,
+时光之沙,时光之沙,ellipse,#b85450,
+挂机,挂机,rectangle,#82b366,"卡牌升级石头,卡牌进阶石头,神器碎片,stopwatch,玩家经验,混沌石， 符文商店用,随机英雄碎片,恶魔之魂， 升级符文用,装备,lemon_tea,虚空石,时光之沙,酒馆卷轴,金币,egg_tart"
+征战大厅,征战大厅,rhombus,#dae8fc,挂机
+酒馆卷轴,酒馆卷轴,ellipse,#b85450,
+金币,金币,ellipse,#b85450,
+egg_tart,egg_tart,ellipse,#b85450,

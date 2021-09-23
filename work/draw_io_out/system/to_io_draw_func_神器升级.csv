@@ -1,0 +1,4 @@
+id,name,shape,fill,refs
+装备,装备,ellipse,#b85450,神器升级
+装备系统,装备系统,rectangle,#82b366,神器升级
+神器升级,神器升级,rectangle,#82b366,装备

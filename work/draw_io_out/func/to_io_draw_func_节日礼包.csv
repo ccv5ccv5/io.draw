@@ -1,0 +1,13 @@
+id,name,shape,fill,refs
+stopwatch,stopwatch,ellipse,#b85450,
+骰子 dice,骰子 dice,ellipse,#b85450,
+进背包的宝箱,进背包的宝箱,ellipse,#b85450,
+神圣纹章(辉煌商店货币),神圣纹章(辉煌商店货币),ellipse,#b85450,
+egg_tart,egg_tart,ellipse,#b85450,
+先知宝珠，先知门,先知宝珠，先知门,ellipse,#b85450,
+抽卡卷轴,抽卡卷轴,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,
+节日礼包,节日礼包,rectangle,#82b366,"stopwatch,骰子 dice,进背包的宝箱,神圣纹章(辉煌商店货币),先知宝珠，先知门,抽卡卷轴,钻石,金币,egg_tart,paddle2"
+礼包,礼包,rhombus,#dae8fc,节日礼包
+金币,金币,ellipse,#b85450,
+paddle2,paddle2,ellipse,#b85450,

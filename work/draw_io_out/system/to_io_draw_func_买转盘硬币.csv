@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+买转盘硬币,买转盘硬币,rectangle,#82b366,许愿币
+许愿币,许愿币,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,买转盘硬币
+转盘,转盘,rectangle,#82b366,买转盘硬币

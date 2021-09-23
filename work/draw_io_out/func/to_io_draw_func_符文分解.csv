@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+符文分解,符文分解,rectangle,#82b366,混沌石， 符文商店用
+混沌石， 符文商店用,混沌石， 符文商店用,ellipse,#b85450,
+RUNE,RUNE,ellipse,#b85450,符文分解
+符文书,符文书,rhombus,#dae8fc,符文分解

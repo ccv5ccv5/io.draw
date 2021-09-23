@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'英雄分解商店购买','英雄分解商店购买',rectangle,#82b366,
+商店,商店,rectangle,#82b366,'英雄分解商店购买'

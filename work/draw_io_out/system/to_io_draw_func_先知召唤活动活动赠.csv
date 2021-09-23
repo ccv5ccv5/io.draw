@@ -1,0 +1,7 @@
+id,name,shape,fill,refs
+周活动,周活动,rectangle,#82b366,先知召唤活动活动赠
+先知召唤活动活动赠,先知召唤活动活动赠,rectangle,#82b366,"神圣纹章(辉煌商店货币),egg_tart,固定英雄卡牌碎片,随机英雄碎片"
+神圣纹章(辉煌商店货币),神圣纹章(辉煌商店货币),ellipse,#b85450,
+随机英雄碎片,随机英雄碎片,ellipse,#b85450,
+egg_tart,egg_tart,ellipse,#b85450,
+固定英雄卡牌碎片,固定英雄卡牌碎片,ellipse,#b85450,

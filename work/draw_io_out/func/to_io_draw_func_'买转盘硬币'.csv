@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'买转盘硬币','买转盘硬币',rectangle,#82b366,
+转盘,转盘,rectangle,#82b366,'买转盘硬币'

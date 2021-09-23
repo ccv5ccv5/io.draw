@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+月活动,月活动,rectangle,#82b366,指定英雄升星活动赠
+指定皮肤碎片(指定的skin id),指定皮肤碎片(指定的skin id),ellipse,#b85450,
+随机英雄碎片,随机英雄碎片,ellipse,#b85450,
+指定英雄升星活动赠,指定英雄升星活动赠,rectangle,#82b366,"指定皮肤碎片(指定的skin id),随机英雄碎片"

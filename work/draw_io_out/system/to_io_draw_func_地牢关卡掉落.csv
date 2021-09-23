@@ -1,0 +1,13 @@
+id,name,shape,fill,refs
+LOSTCITY_COIN,LOSTCITY_COIN,ellipse,#b85450,
+高级许愿币,高级许愿币,ellipse,#b85450,
+恶魔之魂， 升级符文用,恶魔之魂， 升级符文用,ellipse,#b85450,
+卡牌升级石头,卡牌升级石头,ellipse,#b85450,
+地牢,地牢,rectangle,#82b366,地牢关卡掉落
+地牢关卡掉落,地牢关卡掉落,rectangle,#82b366,"LOSTCITY_COIN,高级许愿币,恶魔之魂， 升级符文用,卡牌升级石头,随机英雄碎片,混沌石， 符文商店用,金币,装备,神器碎片,钻石"
+随机英雄碎片,随机英雄碎片,ellipse,#b85450,
+混沌石， 符文商店用,混沌石， 符文商店用,ellipse,#b85450,
+金币,金币,ellipse,#b85450,
+装备,装备,ellipse,#b85450,
+神器碎片,神器碎片,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,

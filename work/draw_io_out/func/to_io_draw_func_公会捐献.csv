@@ -1,0 +1,6 @@
+id,name,shape,fill,refs
+公会币,公会币,ellipse,#b85450,
+公会捐献,公会捐献,rectangle,#82b366,公会币
+工会,工会,rhombus,#dae8fc,公会捐献
+钻石,钻石,ellipse,#b85450,公会捐献
+金币,金币,ellipse,#b85450,公会捐献

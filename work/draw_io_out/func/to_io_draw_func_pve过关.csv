@@ -1,0 +1,10 @@
+id,name,shape,fill,refs
+卡牌升级石头,卡牌升级石头,ellipse,#b85450,
+pve过关,pve过关,rectangle,#82b366,"卡牌升级石头,固定英雄卡牌碎片,玩家经验,随机英雄碎片,装备,抽卡卷轴,金币"
+固定英雄卡牌碎片,固定英雄卡牌碎片,ellipse,#b85450,
+玩家经验,玩家经验,ellipse,#b85450,
+随机英雄碎片,随机英雄碎片,ellipse,#b85450,
+装备,装备,ellipse,#b85450,
+抽卡卷轴,抽卡卷轴,ellipse,#b85450,
+征战大厅,征战大厅,rhombus,#dae8fc,pve过关
+金币,金币,ellipse,#b85450,

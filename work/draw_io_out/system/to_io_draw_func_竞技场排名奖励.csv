@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+时光之沙,时光之沙,ellipse,#b85450,
+竞技场,竞技场,rectangle,#82b366,竞技场排名奖励
+竞技场排名奖励,竞技场排名奖励,rectangle,#82b366,"时光之沙,钻石"
+钻石,钻石,ellipse,#b85450,

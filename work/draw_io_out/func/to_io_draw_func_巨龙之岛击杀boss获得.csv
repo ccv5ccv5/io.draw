@@ -1,0 +1,8 @@
+id,name,shape,fill,refs
+极乐之境金羽毛,极乐之境金羽毛,ellipse,#b85450,
+神器碎片,神器碎片,ellipse,#b85450,
+龙纹币,龙纹币,ellipse,#b85450,
+巨龙之岛击杀boss获得,巨龙之岛击杀boss获得,rectangle,#82b366,"极乐之境金羽毛,神器碎片,龙纹币,随机皮肤碎片,金币"
+随机皮肤碎片,随机皮肤碎片,ellipse,#b85450,
+金币,金币,ellipse,#b85450,
+龙岛,龙岛,rhombus,#dae8fc,巨龙之岛击杀boss获得

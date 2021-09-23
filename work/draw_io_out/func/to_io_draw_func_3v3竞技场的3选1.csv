@@ -1,0 +1,6 @@
+id,name,shape,fill,refs
+竞技场,竞技场,rhombus,#dae8fc,3v3竞技场的3选1
+竞技场商场幸运币,竞技场商场幸运币,ellipse,#b85450,
+3v3竞技场的3选1,3v3竞技场的3选1,rectangle,#82b366,"竞技场商场幸运币,金币,钻石"
+钻石,钻石,ellipse,#b85450,
+金币,金币,ellipse,#b85450,

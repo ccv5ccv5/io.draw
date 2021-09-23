@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'扫荡','扫荡',rectangle,#82b366,
+爬塔,爬塔,rectangle,#82b366,'扫荡'

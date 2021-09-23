@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'买竞技场门票','买竞技场门票',rectangle,#82b366,
+商店,商店,rectangle,#82b366,'买竞技场门票'

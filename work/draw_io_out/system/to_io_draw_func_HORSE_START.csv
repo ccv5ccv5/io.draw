@@ -1,0 +1,4 @@
+id,name,shape,fill,refs
+horse searach stamina,horse searach stamina,ellipse,#b85450,
+龙岛,龙岛,rectangle,#82b366,HORSE_START
+HORSE_START,HORSE_START,rectangle,#82b366,horse searach stamina

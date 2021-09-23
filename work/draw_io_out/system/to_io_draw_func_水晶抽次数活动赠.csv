@@ -1,0 +1,10 @@
+id,name,shape,fill,refs
+高级置换材料 荷鲁斯之眼,高级置换材料 荷鲁斯之眼,ellipse,#b85450,
+周活动,周活动,rectangle,#82b366,水晶抽次数活动赠
+神圣纹章(辉煌商店货币),神圣纹章(辉煌商店货币),ellipse,#b85450,
+lemon_tea,lemon_tea,ellipse,#b85450,
+水晶抽次数活动赠,水晶抽次数活动赠,rectangle,#82b366,"高级置换材料 荷鲁斯之眼,神圣纹章(辉煌商店货币),lemon_tea,paddle2,抽卡卷轴,先知宝珠，先知门,固定英雄卡牌碎片"
+paddle2,paddle2,ellipse,#b85450,
+抽卡卷轴,抽卡卷轴,ellipse,#b85450,
+先知宝珠，先知门,先知宝珠，先知门,ellipse,#b85450,
+固定英雄卡牌碎片,固定英雄卡牌碎片,ellipse,#b85450,

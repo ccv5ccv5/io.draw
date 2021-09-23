@@ -1,0 +1,21 @@
+id,name,shape,fill,refs
+神圣纹章(辉煌商店货币),神圣纹章(辉煌商店货币),ellipse,#b85450,
+虚空石,虚空石,ellipse,#b85450,虚空普通战斗奖励
+指定皮肤碎片(指定的skin id),指定皮肤碎片(指定的skin id),ellipse,#b85450,
+虚空普通战斗奖励,虚空普通战斗奖励,rectangle,#82b366,"卡牌升级石头,混沌石， 符文商店用,恶魔之魂， 升级符文用,时光之沙,金币"
+混沌石， 符文商店用,混沌石， 符文商店用,ellipse,#b85450,
+随机英雄碎片,随机英雄碎片,ellipse,#b85450,
+指定英雄升星活动赠,指定英雄升星活动赠,rectangle,#82b366,"指定皮肤碎片(指定的skin id),随机英雄碎片"
+高级许愿币,高级许愿币,ellipse,#b85450,
+battle pass买积分,battle pass买积分,rectangle,#82b366,
+卡牌升级石头,卡牌升级石头,ellipse,#b85450,
+先知宝珠，先知门,先知宝珠，先知门,ellipse,#b85450,
+抽卡卷轴,抽卡卷轴,ellipse,#b85450,
+battle pass积分补偿,battle pass积分补偿,rectangle,#82b366,battle pass点数
+金币,金币,ellipse,#b85450,
+月活动,月活动,rhombus,#dae8fc,"虚空普通战斗奖励,指定英雄升星活动赠,battle pass积分补偿,battle pass买积分,酒馆活动活动赠"
+酒馆活动活动赠,酒馆活动活动赠,rectangle,#82b366,"神圣纹章(辉煌商店货币),随机英雄碎片,先知宝珠，先知门,抽卡卷轴,高级许愿币"
+恶魔之魂， 升级符文用,恶魔之魂， 升级符文用,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,battle pass买积分
+时光之沙,时光之沙,ellipse,#b85450,
+battle pass点数,battle pass点数,ellipse,#b85450,

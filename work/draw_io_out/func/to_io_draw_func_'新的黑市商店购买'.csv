@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'新的黑市商店购买','新的黑市商店购买',rectangle,#82b366,
+商店,商店,rectangle,#82b366,'新的黑市商店购买'

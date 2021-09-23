@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+卡牌进阶石头,卡牌进阶石头,ellipse,#b85450,
+关卡限时礼包,关卡限时礼包,rectangle,#82b366,"钻石,卡牌进阶石头"
+钻石,钻石,ellipse,#b85450,
+礼包,礼包,rectangle,#82b366,关卡限时礼包

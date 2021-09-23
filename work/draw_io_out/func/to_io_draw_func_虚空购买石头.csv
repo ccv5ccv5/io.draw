@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+虚空石,虚空石,ellipse,#b85450,
+周活动,周活动,rhombus,#dae8fc,虚空购买石头
+钻石,钻石,ellipse,#b85450,虚空购买石头
+虚空购买石头,虚空购买石头,rectangle,#82b366,虚空石

@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+抽卡卷轴,抽卡卷轴,ellipse,#b85450,低级抽卡
+抽卡,抽卡,rectangle,#82b366,低级抽卡
+卡牌,卡牌,ellipse,#b85450,
+低级抽卡,低级抽卡,rectangle,#82b366,卡牌

@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+巨龙之岛买苹果,巨龙之岛买苹果,rectangle,#82b366,极乐之境金苹果
+钻石,钻石,ellipse,#b85450,巨龙之岛买苹果
+龙岛,龙岛,rectangle,#82b366,巨龙之岛买苹果
+极乐之境金苹果,极乐之境金苹果,ellipse,#b85450,

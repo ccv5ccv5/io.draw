@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+金币,金币,ellipse,#b85450,
+工会,工会,rhombus,#dae8fc,捐出卡牌碎片获得奖励
+捐出卡牌碎片获得奖励,捐出卡牌碎片获得奖励,rectangle,#82b366,"金币,公会币"
+公会币,公会币,ellipse,#b85450,

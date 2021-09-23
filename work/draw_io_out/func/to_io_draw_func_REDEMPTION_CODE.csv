@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+抽卡卷轴,抽卡卷轴,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,
+REDEMPTION_CODE,REDEMPTION_CODE,rectangle,#82b366,"抽卡卷轴,钻石"
+活跃活动,活跃活动,rhombus,#dae8fc,REDEMPTION_CODE

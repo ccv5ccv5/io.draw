@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+英雄分解商店购买,英雄分解商店购买,rectangle,#82b366,固定英雄卡牌碎片
+灵魂石,灵魂石,ellipse,#b85450,英雄分解商店购买
+分解功能,分解功能,rhombus,#dae8fc,英雄分解商店购买
+固定英雄卡牌碎片,固定英雄卡牌碎片,ellipse,#b85450,

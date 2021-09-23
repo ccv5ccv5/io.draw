@@ -1,0 +1,13 @@
+id,name,shape,fill,refs
+周活动,周活动,rectangle,#82b366,藏宝图2活动赠
+许愿币,许愿币,ellipse,#b85450,
+随机英雄碎片,随机英雄碎片,ellipse,#b85450,
+藏宝图2活动赠,藏宝图2活动赠,rectangle,#82b366,"许愿币,随机英雄碎片,抽卡卷轴,指定皮肤碎片(指定的skin id),装备,神器碎片,卡牌,先知宝珠，先知门,固定英雄卡牌碎片"
+抽卡卷轴,抽卡卷轴,ellipse,#b85450,
+指定皮肤碎片(指定的skin id),指定皮肤碎片(指定的skin id),ellipse,#b85450,
+paddle2,paddle2,ellipse,#b85450,藏宝图2活动赠
+装备,装备,ellipse,#b85450,
+神器碎片,神器碎片,ellipse,#b85450,
+卡牌,卡牌,ellipse,#b85450,
+先知宝珠，先知门,先知宝珠，先知门,ellipse,#b85450,
+固定英雄卡牌碎片,固定英雄卡牌碎片,ellipse,#b85450,

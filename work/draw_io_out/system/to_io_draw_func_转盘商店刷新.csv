@@ -1,0 +1,4 @@
+id,name,shape,fill,refs
+转盘商店刷新,转盘商店刷新,rectangle,#82b366,
+转盘商场幸运币,转盘商场幸运币,ellipse,#b85450,转盘商店刷新
+转盘,转盘,rectangle,#82b366,转盘商店刷新

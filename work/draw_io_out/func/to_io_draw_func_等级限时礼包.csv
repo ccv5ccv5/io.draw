@@ -1,0 +1,9 @@
+id,name,shape,fill,refs
+卡牌升级石头,卡牌升级石头,ellipse,#b85450,
+等级限时礼包,等级限时礼包,rectangle,#82b366,"卡牌升级石头,先知宝珠，先知门,许愿币,抽卡卷轴,钻石,金币"
+先知宝珠，先知门,先知宝珠，先知门,ellipse,#b85450,
+许愿币,许愿币,ellipse,#b85450,
+抽卡卷轴,抽卡卷轴,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,
+礼包,礼包,rhombus,#dae8fc,等级限时礼包
+金币,金币,ellipse,#b85450,

@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+地牢买药水,地牢买药水,rectangle,#82b366,LOSTCITY_RECOVERY
+地牢,地牢,rhombus,#dae8fc,地牢买药水
+LOSTCITY_COIN,LOSTCITY_COIN,ellipse,#b85450,地牢买药水
+LOSTCITY_RECOVERY,LOSTCITY_RECOVERY,ellipse,#b85450,

@@ -1,0 +1,4 @@
+id,name,shape,fill,refs
+钻石礼包,钻石礼包,rectangle,#82b366,钻石
+竞技场,竞技场,rectangle,#82b366,钻石礼包
+钻石,钻石,ellipse,#b85450,

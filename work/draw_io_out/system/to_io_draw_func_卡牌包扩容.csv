@@ -1,0 +1,4 @@
+id,name,shape,fill,refs
+背包系统,背包系统,rectangle,#82b366,卡牌包扩容
+卡牌包扩容,卡牌包扩容,rectangle,#82b366,
+钻石,钻石,ellipse,#b85450,卡牌包扩容

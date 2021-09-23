@@ -1,0 +1,6 @@
+id,name,shape,fill,refs
+竞技场,竞技场,rhombus,#dae8fc,跨服pvp排行榜奖励
+抽卡卷轴,抽卡卷轴,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,
+跨服pvp排行榜奖励,跨服pvp排行榜奖励,rectangle,#82b366,"金币,钻石,抽卡卷轴"
+金币,金币,ellipse,#b85450,

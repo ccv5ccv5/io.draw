@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'HORSE_START','HORSE_START',rectangle,#82b366,
+龙岛,龙岛,rectangle,#82b366,'HORSE_START'

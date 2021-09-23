@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'等级限时礼包','等级限时礼包',rectangle,#82b366,
+礼包,礼包,rectangle,#82b366,'等级限时礼包'

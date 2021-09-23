@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'天马探索','天马探索',rectangle,#82b366,
+龙岛,龙岛,rectangle,#82b366,'天马探索'

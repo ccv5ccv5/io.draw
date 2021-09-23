@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'先知召唤-恶魔','先知召唤-恶魔',rectangle,#82b366,
+先知,先知,rectangle,#82b366,'先知召唤-恶魔'

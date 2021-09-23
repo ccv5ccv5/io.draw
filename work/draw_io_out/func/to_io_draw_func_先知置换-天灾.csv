@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+先知之树,先知之树,rhombus,#dae8fc,先知置换-天灾
+先知置换-天灾,先知置换-天灾,rectangle,#82b366,卡牌
+卡牌,卡牌,ellipse,#b85450,先知置换-天灾
+先知祝福，英雄置换,先知祝福，英雄置换,ellipse,#b85450,先知置换-天灾

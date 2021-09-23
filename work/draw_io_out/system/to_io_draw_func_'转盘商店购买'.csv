@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'转盘商店购买','转盘商店购买',rectangle,#82b366,
+转盘,转盘,rectangle,#82b366,'转盘商店购买'

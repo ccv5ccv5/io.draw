@@ -1,0 +1,7 @@
+id,name,shape,fill,refs
+巨龙之岛建筑产出,巨龙之岛建筑产出,rectangle,#82b366,"金币,龙纹币,钻石,极乐之境金苹果"
+龙纹币,龙纹币,ellipse,#b85450,
+龙岛,龙岛,rectangle,#82b366,巨龙之岛建筑产出
+金币,金币,ellipse,#b85450,
+极乐之境金苹果,极乐之境金苹果,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,

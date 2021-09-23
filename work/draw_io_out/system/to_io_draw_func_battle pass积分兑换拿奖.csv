@@ -1,0 +1,14 @@
+id,name,shape,fill,refs
+battle pass积分兑换拿奖,battle pass积分兑换拿奖,rectangle,#82b366,"时光之沙,高级许愿币,特殊头像,神圣纹章(辉煌商店货币),卡牌升级石头,许愿币,金币,抽卡卷轴,装备,先知宝珠，先知门,钻石"
+时光之沙,时光之沙,ellipse,#b85450,
+高级许愿币,高级许愿币,ellipse,#b85450,
+特殊头像,特殊头像,ellipse,#b85450,
+神圣纹章(辉煌商店货币),神圣纹章(辉煌商店货币),ellipse,#b85450,
+竞技场,竞技场,rectangle,#82b366,battle pass积分兑换拿奖
+卡牌升级石头,卡牌升级石头,ellipse,#b85450,
+许愿币,许愿币,ellipse,#b85450,
+金币,金币,ellipse,#b85450,
+抽卡卷轴,抽卡卷轴,ellipse,#b85450,
+装备,装备,ellipse,#b85450,
+先知宝珠，先知门,先知宝珠，先知门,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,

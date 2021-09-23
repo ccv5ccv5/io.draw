@@ -1,0 +1,4 @@
+id,name,shape,fill,refs
+天马奇遇,天马奇遇,rectangle,#82b366,
+钻石,钻石,ellipse,#b85450,天马奇遇
+龙岛,龙岛,rectangle,#82b366,天马奇遇

@@ -1,0 +1,8 @@
+id,name,shape,fill,refs
+扫荡,扫荡,rectangle,#82b366,"时光之沙,随机英雄碎片,金币,钻石,卡牌进阶石头"
+时光之沙,时光之沙,ellipse,#b85450,
+随机英雄碎片,随机英雄碎片,ellipse,#b85450,
+爬塔,爬塔,rectangle,#82b366,扫荡
+金币,金币,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,
+卡牌进阶石头,卡牌进阶石头,ellipse,#b85450,

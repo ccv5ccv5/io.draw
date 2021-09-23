@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+卡牌升级石头,卡牌升级石头,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,
+英雄成长限时礼包,英雄成长限时礼包,rectangle,#82b366,"卡牌升级石头,钻石"
+礼包,礼包,rectangle,#82b366,英雄成长限时礼包

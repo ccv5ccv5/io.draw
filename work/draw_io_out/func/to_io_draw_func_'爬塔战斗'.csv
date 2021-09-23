@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'爬塔战斗','爬塔战斗',rectangle,#82b366,
+爬塔,爬塔,rectangle,#82b366,'爬塔战斗'

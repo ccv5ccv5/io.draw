@@ -1,0 +1,6 @@
+id,name,shape,fill,refs
+装备系统,装备系统,rectangle,#82b366,装备附魔
+装备附魔书,装备附魔书,ellipse,#b85450,装备附魔
+装备附魔,装备附魔,rectangle,#82b366,装备
+金币,金币,ellipse,#b85450,装备附魔
+装备,装备,ellipse,#b85450,装备附魔

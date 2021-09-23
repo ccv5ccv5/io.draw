@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+金币,金币,ellipse,#b85450,卡牌升级
+卡牌升级,卡牌升级,rectangle,#82b366,
+卡牌升级石头,卡牌升级石头,ellipse,#b85450,卡牌升级
+英雄系统,英雄系统,rhombus,#dae8fc,卡牌升级

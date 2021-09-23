@@ -1,0 +1,7 @@
+id,name,shape,fill,refs
+好友boss体力，新的3,好友boss体力，新的3,ellipse,#b85450,FRIEND_MAZE_SEARCH
+卡牌升级石头,卡牌升级石头,ellipse,#b85450,
+FRIEND_MAZE_SEARCH,FRIEND_MAZE_SEARCH,rectangle,#82b366,"卡牌升级石头,金币,好友boss体力，新的3,随机英雄碎片"
+随机英雄碎片,随机英雄碎片,ellipse,#b85450,
+金币,金币,ellipse,#b85450,
+好友,好友,rectangle,#82b366,FRIEND_MAZE_SEARCH

@@ -1,0 +1,6 @@
+id,name,shape,fill,refs
+背包系统,背包系统,rectangle,#82b366,卡牌碎片合成
+随机英雄碎片,随机英雄碎片,ellipse,#b85450,卡牌碎片合成
+卡牌碎片合成,卡牌碎片合成,rectangle,#82b366,卡牌
+卡牌,卡牌,ellipse,#b85450,
+固定英雄卡牌碎片,固定英雄卡牌碎片,ellipse,#b85450,卡牌碎片合成

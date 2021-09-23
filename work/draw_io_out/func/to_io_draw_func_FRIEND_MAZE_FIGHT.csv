@@ -1,0 +1,7 @@
+id,name,shape,fill,refs
+神器碎片,神器碎片,ellipse,#b85450,
+好友boss体力，新的3,好友boss体力，新的3,ellipse,#b85450,FRIEND_MAZE_FIGHT
+装备,装备,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,
+好友,好友,rhombus,#dae8fc,FRIEND_MAZE_FIGHT
+FRIEND_MAZE_FIGHT,FRIEND_MAZE_FIGHT,rectangle,#82b366,"钻石,神器碎片,装备"

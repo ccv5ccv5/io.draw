@@ -1,0 +1,10 @@
+id,name,shape,fill,refs
+骰子 dice,骰子 dice,ellipse,#b85450,卖道具
+固定英雄卡牌碎片,固定英雄卡牌碎片,ellipse,#b85450,卖道具
+周活动,周活动,rhombus,#dae8fc,卖道具
+装备,装备,ellipse,#b85450,卖道具
+lemon_tea,lemon_tea,ellipse,#b85450,卖道具
+虚空石,虚空石,ellipse,#b85450,卖道具
+卖道具,卖道具,rectangle,#82b366,金币
+金币,金币,ellipse,#b85450,
+paddle2,paddle2,ellipse,#b85450,卖道具

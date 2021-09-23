@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'卡牌升阶','卡牌升阶',rectangle,#82b366,
+英雄,英雄,rectangle,#82b366,'卡牌升阶'

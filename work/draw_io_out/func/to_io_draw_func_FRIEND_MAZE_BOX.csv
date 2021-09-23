@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+好友,好友,rhombus,#dae8fc,FRIEND_MAZE_BOX
+抽卡卷轴,抽卡卷轴,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,
+FRIEND_MAZE_BOX,FRIEND_MAZE_BOX,rectangle,#82b366,"抽卡卷轴,钻石"

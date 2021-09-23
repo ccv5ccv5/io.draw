@@ -1,0 +1,4 @@
+id,name,shape,fill,refs
+玩家升级奖励,玩家升级奖励,rectangle,#82b366,钻石
+钻石,钻石,ellipse,#b85450,
+成就系统,成就系统,rectangle,#82b366,玩家升级奖励

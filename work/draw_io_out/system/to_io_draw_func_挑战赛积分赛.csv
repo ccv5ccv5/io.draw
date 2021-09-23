@@ -1,0 +1,4 @@
+id,name,shape,fill,refs
+竞技场,竞技场,rectangle,#82b366,挑战赛积分赛
+挑战赛积分赛,挑战赛积分赛,rectangle,#82b366,钻石
+钻石,钻石,ellipse,#b85450,

@@ -1,0 +1,5 @@
+id,name,shape,fill,refs
+工会,工会,rectangle,#82b366,捐出卡牌碎片
+捐出卡牌碎片,捐出卡牌碎片,rectangle,#82b366,
+固定英雄卡牌碎片,固定英雄卡牌碎片,ellipse,#b85450,捐出卡牌碎片
+随机英雄碎片,随机英雄碎片,ellipse,#b85450,捐出卡牌碎片

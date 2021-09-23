@@ -1,0 +1,6 @@
+id,name,shape,fill,refs
+远征币,远征币,ellipse,#b85450,
+3选1远征,3选1远征,rectangle,#82b366,"远征币,金币,钻石"
+远征,远征,rectangle,#82b366,3选1远征
+金币,金币,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,

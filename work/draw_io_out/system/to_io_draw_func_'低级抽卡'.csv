@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'低级抽卡','低级抽卡',rectangle,#82b366,
+抽卡,抽卡,rectangle,#82b366,'低级抽卡'

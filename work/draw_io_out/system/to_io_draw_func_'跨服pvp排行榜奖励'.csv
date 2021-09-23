@@ -1,0 +1,3 @@
+id,name,shape,fill,refs
+'跨服pvp排行榜奖励','跨服pvp排行榜奖励',rectangle,#82b366,
+竞技场,竞技场,rectangle,#82b366,'跨服pvp排行榜奖励'
