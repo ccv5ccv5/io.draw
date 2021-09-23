@@ -1,3 +1,7 @@
 id,name,shape,fill,refs
-背包系统,背包系统,rectangle,#82b366,
-指定皮肤碎片(指定的skin id),指定皮肤碎片(指定的skin id),ellipse,#b85450,背包系统
+指定英雄升星活动赠,指定英雄升星活动赠,rectangle,#82b366,指定皮肤碎片(指定的skin id)
+皮肤碎片合成,皮肤碎片合成,rectangle,#82b366,
+旅行大富翁活动赠,旅行大富翁活动赠,rectangle,#82b366,指定皮肤碎片(指定的skin id)
+藏宝图2活动赠,藏宝图2活动赠,rectangle,#82b366,指定皮肤碎片(指定的skin id)
+顺序兑换活动活动赠,顺序兑换活动活动赠,rectangle,#82b366,指定皮肤碎片(指定的skin id)
+指定皮肤碎片(指定的skin id),指定皮肤碎片(指定的skin id),ellipse,#b85450,皮肤碎片合成

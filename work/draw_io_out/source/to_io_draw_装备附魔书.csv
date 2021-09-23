@@ -1,3 +1,5 @@
 id,name,shape,fill,refs
-装备系统,装备系统,rectangle,#82b366,
-装备附魔书,装备附魔书,ellipse,#b85450,装备系统
+装备附魔,装备附魔,rectangle,#82b366,
+装备附魔书,装备附魔书,ellipse,#b85450,装备附魔
+虚空排行奖励,虚空排行奖励,rectangle,#82b366,装备附魔书
+符文升级,符文升级,rectangle,#82b366,装备附魔书

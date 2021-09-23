@@ -1,4 +1,7 @@
 id,name,shape,fill,refs
-远征币,远征币,ellipse,#b85450,远征
-远征,远征,rectangle,#82b366,远征币
-成就系统,成就系统,rectangle,#82b366,远征币
+远征宝箱,远征宝箱,rectangle,#82b366,远征币
+远征战斗,远征战斗,rectangle,#82b366,远征币
+3选1远征,3选1远征,rectangle,#82b366,远征币
+远征商店购买,远征商店购买,rectangle,#82b366,
+成就领奖,成就领奖,rectangle,#82b366,远征币
+远征币,远征币,ellipse,#b85450,远征商店购买

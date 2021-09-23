@@ -1,4 +1,8 @@
 id,name,shape,fill,refs
-工会,工会,rectangle,#82b366,stopwatch
-stopwatch,stopwatch,ellipse,#b85450,
-征战大厅,征战大厅,rectangle,#82b366,stopwatch
+登陆有奖(活动期间登录拿东西)活动赠,登陆有奖(活动期间登录拿东西)活动赠,rectangle,#82b366,stopwatch
+stopwatch,stopwatch,ellipse,#b85450,顺序兑换活动活动赠
+公会礼包打开,公会礼包打开,rectangle,#82b366,stopwatch
+节日礼包,节日礼包,rectangle,#82b366,stopwatch
+挂机,挂机,rectangle,#82b366,stopwatch
+特惠礼包,特惠礼包,rectangle,#82b366,stopwatch
+顺序兑换活动活动赠,顺序兑换活动活动赠,rectangle,#82b366,

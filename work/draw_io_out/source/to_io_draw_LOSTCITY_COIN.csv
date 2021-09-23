@@ -1,3 +1,4 @@
 id,name,shape,fill,refs
-地牢,地牢,rectangle,#82b366,LOSTCITY_COIN
-LOSTCITY_COIN,LOSTCITY_COIN,ellipse,#b85450,地牢
+地牢买药水,地牢买药水,rectangle,#82b366,
+LOSTCITY_COIN,LOSTCITY_COIN,ellipse,#b85450,地牢买药水
+地牢关卡掉落,地牢关卡掉落,rectangle,#82b366,LOSTCITY_COIN

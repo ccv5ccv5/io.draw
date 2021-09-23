@@ -1,22 +1,37 @@
 id,name,shape,fill,refs
-恶魔之魂， 升级符文用,恶魔之魂， 升级符文用,ellipse,#b85450,
-卡牌升级石头,卡牌升级石头,ellipse,#b85450,
-金币,金币,ellipse,#b85450,龙岛
-抽卡卷轴,抽卡卷轴,ellipse,#b85450,
-horse searach stamina,horse searach stamina,ellipse,#b85450,龙岛
-先知宝珠，先知门,先知宝珠，先知门,ellipse,#b85450,
-随机皮肤碎片,随机皮肤碎片,ellipse,#b85450,
-时光之沙,时光之沙,ellipse,#b85450,
-龙岛,龙岛,rectangle,#82b366,"恶魔之魂， 升级符文用,卡牌升级石头,金币,抽卡卷轴,horse searach stamina,先知宝珠，先知门,随机皮肤碎片,时光之沙,极乐之境金苹果,混沌石， 符文商店用,神器碎片,卡牌,酒馆卷轴,卡牌进阶石头,HORSE_EXP,极乐之境金羽毛,高级许愿币,龙纹币,随机英雄碎片,钻石"
-极乐之境金苹果,极乐之境金苹果,ellipse,#b85450,龙岛
-混沌石， 符文商店用,混沌石， 符文商店用,ellipse,#b85450,
-神器碎片,神器碎片,ellipse,#b85450,
-卡牌,卡牌,ellipse,#b85450,
-酒馆卷轴,酒馆卷轴,ellipse,#b85450,
+极乐之境金苹果,极乐之境金苹果,ellipse,#b85450,"巨龙之岛打boss消耗,巨龙之岛好友助战"
+巨龙之岛买苹果,巨龙之岛买苹果,rectangle,#82b366,极乐之境金苹果
+极乐之境金羽毛,极乐之境金羽毛,ellipse,#b85450,巨龙之岛升级建筑
+巨龙之岛建筑产出,巨龙之岛建筑产出,rectangle,#82b366,"金币,钻石,极乐之境金苹果,龙纹币"
 卡牌进阶石头,卡牌进阶石头,ellipse,#b85450,
-HORSE_EXP,HORSE_EXP,ellipse,#b85450,
-极乐之境金羽毛,极乐之境金羽毛,ellipse,#b85450,龙岛
-高级许愿币,高级许愿币,ellipse,#b85450,
-龙纹币,龙纹币,ellipse,#b85450,龙岛
+龙岛,龙岛,rhombus,#dae8fc,"HORSE_START,天马升级任务,巨龙之岛好友助战,天马探索,巨龙之岛打boss消耗,巨龙之岛买苹果,巨龙之岛金苹果初始化,巨龙之岛升级建筑,巨龙之岛击杀boss获得,巨龙之岛建筑产出,天马完成任务,天马买耐久,巨龙之岛重置建筑,巨龙之岛刷新boss,天马奇遇"
+天马升级任务,天马升级任务,rectangle,#82b366,
+神器碎片,神器碎片,ellipse,#b85450,
+天马探索,天马探索,rectangle,#82b366,
+混沌石， 符文商店用,混沌石， 符文商店用,ellipse,#b85450,
+巨龙之岛升级建筑,巨龙之岛升级建筑,rectangle,#82b366,
+巨龙之岛金苹果初始化,巨龙之岛金苹果初始化,rectangle,#82b366,极乐之境金苹果
+巨龙之岛击杀boss获得,巨龙之岛击杀boss获得,rectangle,#82b366,"极乐之境金羽毛,神器碎片,龙纹币,随机皮肤碎片,金币"
+horse searach stamina,horse searach stamina,ellipse,#b85450,天马探索
 随机英雄碎片,随机英雄碎片,ellipse,#b85450,
-钻石,钻石,ellipse,#b85450,龙岛
+高级许愿币,高级许愿币,ellipse,#b85450,
+天马买耐久,天马买耐久,rectangle,#82b366,
+酒馆卷轴,酒馆卷轴,ellipse,#b85450,
+巨龙之岛刷新boss,巨龙之岛刷新boss,rectangle,#82b366,
+卡牌升级石头,卡牌升级石头,ellipse,#b85450,
+龙纹币,龙纹币,ellipse,#b85450,巨龙之岛升级建筑
+巨龙之岛好友助战,巨龙之岛好友助战,rectangle,#82b366,
+巨龙之岛打boss消耗,巨龙之岛打boss消耗,rectangle,#82b366,
+先知宝珠，先知门,先知宝珠，先知门,ellipse,#b85450,
+天马完成任务,天马完成任务,rectangle,#82b366,"卡牌升级石头,卡牌进阶石头,神器碎片,极乐之境金羽毛,卡牌,龙纹币,混沌石， 符文商店用,随机英雄碎片,先知宝珠，先知门,恶魔之魂， 升级符文用,时光之沙,钻石,抽卡卷轴,高级许愿币,HORSE_EXP,酒馆卷轴,金币"
+抽卡卷轴,抽卡卷轴,ellipse,#b85450,
+HORSE_EXP,HORSE_EXP,ellipse,#b85450,
+金币,金币,ellipse,#b85450,巨龙之岛升级建筑
+HORSE_START,HORSE_START,rectangle,#82b366,horse searach stamina
+卡牌,卡牌,ellipse,#b85450,
+恶魔之魂， 升级符文用,恶魔之魂， 升级符文用,ellipse,#b85450,
+随机皮肤碎片,随机皮肤碎片,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,"天马升级任务,巨龙之岛买苹果,天马买耐久,巨龙之岛刷新boss,天马奇遇"
+巨龙之岛重置建筑,巨龙之岛重置建筑,rectangle,#82b366,"金币,极乐之境金羽毛,龙纹币"
+时光之沙,时光之沙,ellipse,#b85450,
+天马奇遇,天马奇遇,rectangle,#82b366,

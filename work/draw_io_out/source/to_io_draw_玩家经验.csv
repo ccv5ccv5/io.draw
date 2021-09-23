@@ -1,3 +1,4 @@
 id,name,shape,fill,refs
-征战大厅,征战大厅,rectangle,#82b366,玩家经验
 玩家经验,玩家经验,ellipse,#b85450,
+挂机,挂机,rectangle,#82b366,玩家经验
+pve过关,pve过关,rectangle,#82b366,玩家经验

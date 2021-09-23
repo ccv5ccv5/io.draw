@@ -1,10 +1,18 @@
 id,name,shape,fill,refs
-高级许愿币,高级许愿币,ellipse,#b85450,"运营处理,转盘"
-运营处理,运营处理,rectangle,#82b366,
-竞技场,竞技场,rectangle,#82b366,高级许愿币
-地牢,地牢,rectangle,#82b366,高级许愿币
-龙岛,龙岛,rectangle,#82b366,高级许愿币
-基础商店,基础商店,rectangle,#82b366,高级许愿币
-爬塔,爬塔,rectangle,#82b366,高级许愿币
-转盘,转盘,rectangle,#82b366,
-新手养成,新手养成,rectangle,#82b366,高级许愿币
+爬塔战斗,爬塔战斗,rectangle,#82b366,高级许愿币
+登陆有奖(活动期间登录拿东西)活动赠,登陆有奖(活动期间登录拿东西)活动赠,rectangle,#82b366,高级许愿币
+开宝箱,开宝箱,rectangle,#82b366,高级许愿币
+vip礼包,vip礼包,rectangle,#82b366,高级许愿币
+训练营领奖,训练营领奖,rectangle,#82b366,高级许愿币
+转盘次数活动赠,转盘次数活动赠,rectangle,#82b366,高级许愿币
+新的黑市商店购买,新的黑市商店购买,rectangle,#82b366,高级许愿币
+竞技场获胜活动赠,竞技场获胜活动赠,rectangle,#82b366,高级许愿币
+天马完成任务,天马完成任务,rectangle,#82b366,高级许愿币
+使用高级转盘,使用高级转盘,rectangle,#82b366,
+高级许愿币,高级许愿币,ellipse,#b85450,"使用高级转盘,退款后扣除"
+酒馆活动活动赠,酒馆活动活动赠,rectangle,#82b366,高级许愿币
+退款后扣除,退款后扣除,rectangle,#82b366,
+特惠礼包,特惠礼包,rectangle,#82b366,高级许愿币
+顺序兑换活动活动赠,顺序兑换活动活动赠,rectangle,#82b366,高级许愿币
+battle pass积分兑换拿奖,battle pass积分兑换拿奖,rectangle,#82b366,高级许愿币
+地牢关卡掉落,地牢关卡掉落,rectangle,#82b366,高级许愿币

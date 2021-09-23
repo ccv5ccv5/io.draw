@@ -1,3 +1,9 @@
 id,name,shape,fill,refs
-lemon_tea,lemon_tea,ellipse,#b85450,
-征战大厅,征战大厅,rectangle,#82b366,lemon_tea
+登陆有奖(活动期间登录拿东西)活动赠,登陆有奖(活动期间登录拿东西)活动赠,rectangle,#82b366,lemon_tea
+开宝箱,开宝箱,rectangle,#82b366,lemon_tea
+水晶抽次数活动赠,水晶抽次数活动赠,rectangle,#82b366,lemon_tea
+lemon_tea,lemon_tea,ellipse,#b85450,"顺序兑换活动活动赠,卖道具"
+挂机,挂机,rectangle,#82b366,lemon_tea
+卖道具,卖道具,rectangle,#82b366,
+特惠礼包,特惠礼包,rectangle,#82b366,lemon_tea
+顺序兑换活动活动赠,顺序兑换活动活动赠,rectangle,#82b366,

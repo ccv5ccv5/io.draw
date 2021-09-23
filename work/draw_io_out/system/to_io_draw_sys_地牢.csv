@@ -1,18 +1,22 @@
 id,name,shape,fill,refs
-竞技场门票,竞技场门票,ellipse,#b85450,
-LOSTCITY_COIN,LOSTCITY_COIN,ellipse,#b85450,地牢
-高级许愿币,高级许愿币,ellipse,#b85450,
-恶魔之魂， 升级符文用,恶魔之魂， 升级符文用,ellipse,#b85450,
 LOSTCITY_RECOVERY,LOSTCITY_RECOVERY,ellipse,#b85450,
-卡牌升级石头,卡牌升级石头,ellipse,#b85450,
-许愿币,许愿币,ellipse,#b85450,
-地牢,地牢,rectangle,#82b366,"竞技场门票,LOSTCITY_COIN,高级许愿币,恶魔之魂， 升级符文用,LOSTCITY_RECOVERY,卡牌升级石头,许愿币,随机英雄碎片,混沌石， 符文商店用,金币,抽卡卷轴,装备,神器碎片,先知宝珠，先知门,钻石,卡牌进阶石头"
-随机英雄碎片,随机英雄碎片,ellipse,#b85450,
-混沌石， 符文商店用,混沌石， 符文商店用,ellipse,#b85450,
-金币,金币,ellipse,#b85450,地牢
-抽卡卷轴,抽卡卷轴,ellipse,#b85450,
 装备,装备,ellipse,#b85450,
-神器碎片,神器碎片,ellipse,#b85450,
-先知宝珠，先知门,先知宝珠，先知门,ellipse,#b85450,
-钻石,钻石,ellipse,#b85450,地牢
+LOSTCITY_COIN,LOSTCITY_COIN,ellipse,#b85450,地牢买药水
 卡牌进阶石头,卡牌进阶石头,ellipse,#b85450,
+地牢买商人,地牢买商人,rectangle,#82b366,"卡牌升级石头,竞技场门票,随机英雄碎片,先知宝珠，先知门,许愿币,抽卡卷轴,卡牌进阶石头"
+神器碎片,神器碎片,ellipse,#b85450,
+混沌石， 符文商店用,混沌石， 符文商店用,ellipse,#b85450,
+随机英雄碎片,随机英雄碎片,ellipse,#b85450,
+许愿币,许愿币,ellipse,#b85450,
+地牢刷新职业,地牢刷新职业,rectangle,#82b366,
+高级许愿币,高级许愿币,ellipse,#b85450,
+地牢买药水,地牢买药水,rectangle,#82b366,LOSTCITY_RECOVERY
+卡牌升级石头,卡牌升级石头,ellipse,#b85450,
+先知宝珠，先知门,先知宝珠，先知门,ellipse,#b85450,
+抽卡卷轴,抽卡卷轴,ellipse,#b85450,
+金币,金币,ellipse,#b85450,地牢买商人
+地牢,地牢,rhombus,#dae8fc,"地牢买药水,地牢刷新职业,地牢买商人,地牢关卡掉落"
+竞技场门票,竞技场门票,ellipse,#b85450,
+恶魔之魂， 升级符文用,恶魔之魂， 升级符文用,ellipse,#b85450,
+钻石,钻石,ellipse,#b85450,"地牢刷新职业,地牢买商人"
+地牢关卡掉落,地牢关卡掉落,rectangle,#82b366,"卡牌升级石头,神器碎片,混沌石， 符文商店用,随机英雄碎片,恶魔之魂， 升级符文用,装备,钻石,高级许愿币,LOSTCITY_COIN,金币"

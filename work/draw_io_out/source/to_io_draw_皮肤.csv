@@ -1,4 +1,4 @@
 id,name,shape,fill,refs
-背包系统,背包系统,rectangle,#82b366,皮肤
-分解功能,分解功能,rectangle,#82b366,
-皮肤,皮肤,ellipse,#b85450,分解功能
+皮肤分解,皮肤分解,rectangle,#82b366,
+皮肤,皮肤,ellipse,#b85450,皮肤分解
+皮肤碎片合成,皮肤碎片合成,rectangle,#82b366,皮肤

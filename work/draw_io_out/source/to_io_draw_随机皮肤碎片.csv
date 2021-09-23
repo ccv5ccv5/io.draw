@@ -1,5 +1,6 @@
 id,name,shape,fill,refs
-背包系统,背包系统,rectangle,#82b366,
-分解功能,分解功能,rectangle,#82b366,随机皮肤碎片
-随机皮肤碎片,随机皮肤碎片,ellipse,#b85450,背包系统
-龙岛,龙岛,rectangle,#82b366,随机皮肤碎片
+皮肤分解,皮肤分解,rectangle,#82b366,随机皮肤碎片
+巨龙之岛击杀boss获得,巨龙之岛击杀boss获得,rectangle,#82b366,随机皮肤碎片
+随机皮肤碎片,随机皮肤碎片,ellipse,#b85450,皮肤碎片合成
+皮肤碎片合成,皮肤碎片合成,rectangle,#82b366,
+顺序兑换活动活动赠,顺序兑换活动活动赠,rectangle,#82b366,随机皮肤碎片

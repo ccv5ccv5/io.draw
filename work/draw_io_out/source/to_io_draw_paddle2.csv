@@ -1,2 +1,8 @@
 id,name,shape,fill,refs
-paddle2,paddle2,ellipse,#b85450,
+水晶抽次数活动赠,水晶抽次数活动赠,rectangle,#82b366,paddle2
+卖道具,卖道具,rectangle,#82b366,
+节日礼包,节日礼包,rectangle,#82b366,paddle2
+藏宝图2活动赠,藏宝图2活动赠,rectangle,#82b366,
+特惠礼包,特惠礼包,rectangle,#82b366,paddle2
+顺序兑换活动活动赠,顺序兑换活动活动赠,rectangle,#82b366,paddle2
+paddle2,paddle2,ellipse,#b85450,"卖道具,藏宝图2活动赠"

@@ -1,3 +1,4 @@
 id,name,shape,fill,refs
-horse searach stamina,horse searach stamina,ellipse,#b85450,龙岛
-龙岛,龙岛,rectangle,#82b366,horse searach stamina
+HORSE_START,HORSE_START,rectangle,#82b366,horse searach stamina
+天马探索,天马探索,rectangle,#82b366,
+horse searach stamina,horse searach stamina,ellipse,#b85450,天马探索

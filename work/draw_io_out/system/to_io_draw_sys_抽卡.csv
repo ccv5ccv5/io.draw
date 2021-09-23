@@ -1,6 +1,10 @@
 id,name,shape,fill,refs
-钻石,钻石,ellipse,#b85450,抽卡
-抽卡,抽卡,rectangle,#82b366,卡牌
-抽卡卷轴,抽卡卷轴,ellipse,#b85450,抽卡
+爱心,爱心,ellipse,#b85450,爱心抽卡
 卡牌,卡牌,ellipse,#b85450,
-爱心,爱心,ellipse,#b85450,抽卡
+抽卡,抽卡,rhombus,#dae8fc,"高级抽卡,低级抽卡,能量抽卡,爱心抽卡"
+爱心抽卡,爱心抽卡,rectangle,#82b366,卡牌
+抽卡卷轴,抽卡卷轴,ellipse,#b85450,"高级抽卡,低级抽卡"
+高级抽卡,高级抽卡,rectangle,#82b366,卡牌
+低级抽卡,低级抽卡,rectangle,#82b366,卡牌
+能量抽卡,能量抽卡,rectangle,#82b366,卡牌
+钻石,钻石,ellipse,#b85450,高级抽卡

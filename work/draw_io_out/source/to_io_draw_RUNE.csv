@@ -1,3 +1,5 @@
 id,name,shape,fill,refs
-符文书,符文书,rectangle,#82b366,RUNE
-RUNE,RUNE,ellipse,#b85450,符文书
+符文分解,符文分解,rectangle,#82b366,
+xx商店购买,xx商店购买,rectangle,#82b366,RUNE
+RUNE,RUNE,ellipse,#b85450,"符文分解,符文升级"
+符文升级,符文升级,rectangle,#82b366,RUNE

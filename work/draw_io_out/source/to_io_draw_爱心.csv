@@ -1,5 +1,5 @@
 id,name,shape,fill,refs
-好友,好友,rectangle,#82b366,爱心
-抽卡,抽卡,rectangle,#82b366,
-爱心,爱心,ellipse,#b85450,抽卡
-成就系统,成就系统,rectangle,#82b366,爱心
+爱心,爱心,ellipse,#b85450,爱心抽卡
+好友送心,好友送心,rectangle,#82b366,爱心
+成就领奖,成就领奖,rectangle,#82b366,爱心
+爱心抽卡,爱心抽卡,rectangle,#82b366,
